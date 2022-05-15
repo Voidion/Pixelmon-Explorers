@@ -1,1 +1,1 @@
-# PixelmonExplorers
+# Pixelmon Explorers
